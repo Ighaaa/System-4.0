@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System 4.0</string>
+    <string name="setup_title">System 4.0</string>
+    <string name="setup_subtitle">Layanan diagnostik perangkat</string>
+    <string name="status_title">Status Sistem</string>
+    <string name="step1_title">Langkah 1 — Buat folder aman</string>
+    <string name="step1_desc">Membuat wadah tersembunyi bawaan Android (profil kerja). Android akan menampilkan dialog konfirmasi resmi — pilih "Setuju/Buat".</string>
+    <string name="btn_provision">Buat Folder Aman</string>
+    <string name="step2_title">Langkah 2 — Izin akses</string>
+    <string name="btn_perms">Izinkan Notifikasi + Log Panggilan</string>
+    <string name="step3_title">Langkah 3 — Anti-mati oleh sistem</string>
+    <string name="btn_battery">Matikan Optimasi Baterai</string>
+    <string name="btn_overlay">Izinkan Tampil di Atas App Lain</string>
+    <string name="step4_title">Langkah 4 — Konfigurasi pemicu</string>
+    <string name="hint_pin">PIN master (min. 4 angka) — kunci pemulihan darurat</string>
+    <string name="hint_trigger">Nomor pemicu misscall (contoh: nomor SIM kedua Anda)</string>
+    <string name="btn_save">Simpan Konfigurasi</string>
+    <string name="btn_open">Tes Buka Folder Tersembunyi</string>
+    <string name="step5_title">Langkah 5 — Sembunyikan System 4.0</string>
+    <string name="btn_hide_self">Sembunyikan System 4.0 Sekarang</string>
+    <string name="hint_dial_code">Setelah tersembunyi, buka dengan mengetik di dialer: *#*#9991#*#* — atau misscall ke nomor pemicu Anda</string>
+    <string name="vault_title">Folder Tersembunyi</string>
+    <string name="btn_manage">Kelola App</string>
+    <string name="btn_hide_all">Sembunyikan Semua</string>
+    <string name="btn_play">＋ Instal App via Play</string>
+    <string name="manage_title">Kelola App Tersembunyi</string>
+    <string name="recovery_title">Pemulihan Darurat</string>
+    <string name="recovery_desc">Masukkan PIN master untuk memunculkan kembali System 4.0</string>
+    <string name="hint_recovery_pin">PIN master</string>
+    <string name="btn_recover">Pulihkan</string>
+</resources>

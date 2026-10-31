@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- badan gembok -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,52 L74,52 A6,6 0 0 1 80,58 L80,78 A6,6 0 0 1 74,84 L34,84 A6,6 0 0 1 28,78 L28,58 A6,6 0 0 1 34,52 Z" />
+    <!-- kunci gembok -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="7"
+        android:strokeLineCap="round"
+        android:pathData="M40,52 L40,42 A14,14 0 0 1 68,42 L68,52"
+        android:fillAlpha="0"
+        android:strokeAlpha="1" />
+    <!-- lubang kunci -->
+    <path
+        android:fillColor="#1F2A24"
+        android:pathData="M54,60 A5,5 0 0 1 59,65 A5,5 0 0 1 56.5,69.6 L58,74 L50,74 L51.5,69.6 A5,5 0 0 1 49,65 A5,5 0 0 1 54,60 Z" />
+</vector>
